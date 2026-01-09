@@ -1,0 +1,6 @@
+__pycache__
+.mypy_cache
+.venv
+.env
+TODO
+/Тестовое_задание_AQA_Python.md
